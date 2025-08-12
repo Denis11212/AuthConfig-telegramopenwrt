@@ -3,7 +3,7 @@
 # Как пользоваться
 Установка довольно простая.
 
-0. Достаточно запустить серипт. Например, так:
+0. Достаточно запустить скрипт. Например, так:
 ```Shell
 curl -O "https://raw.githubusercontent.com/Denis11212/AuthConfig-telegramopenwrt/refs/heads/main/auth_config_telegramopenwrt.sh"
 chmod +x auth_config_telegramopenwrt.sh
